@@ -2,7 +2,7 @@
 //Добав метод getInfo(), який, виводить рядок: User ${ім'я} is ${вік} years old and has ${кількість фоловерів} followers
 
 class User {
-    constructor (user) {
+    constructor(user) {
         this.name = user.name
         this.age = user.age
         this.followers = user.followers
